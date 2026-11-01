@@ -58,6 +58,8 @@
 
 html {
     background-color: var(--idx11);
+    background-image: url(images/backdrop1transparent.png);
+    /*opacity: 0.5;*/
 }
 
 body {
