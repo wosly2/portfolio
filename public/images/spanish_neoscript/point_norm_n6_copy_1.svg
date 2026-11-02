@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="19.997847mm"
+   height="21.743963mm"
+   viewBox="0 0 19.997847 21.743963"
+   version="1.1"
+   id="svg1"
+   inkscape:export-batch-name=""
+   inkscape:export-batch-path="/Users/sawyerjackson/Projects/portfolio/public/images/spanish_neoscript"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#111111"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm">
+    <inkscape:page
+       x="0"
+       y="0"
+       width="19.997847"
+       height="21.743963"
+       id="page1"
+       margin="0"
+       bleed="0" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1">
+    <linearGradient
+       id="swatch69"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#639bff;stop-opacity:1;"
+         offset="0"
+         id="stop69" />
+    </linearGradient>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-116.74825,-42.733598)">
+    <g
+       id="g65"
+       transform="matrix(0.7510195,0,0,0.75098979,30.257562,-68.664574)"
+       inkscape:label="point_norm_n6"
+       style="stroke-width:1.33155;stroke-linejoin:bevel">
+      <path
+         style="fill:none;fill-opacity:1;stroke:#222034;stroke-width:1.91743;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:3;stroke-dasharray:none;stroke-opacity:1"
+         d="m 115.16437,167.25461 h 26.6276"
+         id="path55" />
+      <path
+         style="fill:none;fill-opacity:1;stroke:#639bff;stroke-width:1.91743;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:3;stroke-dasharray:none;stroke-opacity:1"
+         d="m 117.82713,166.92177 4.16057,-16.47583 1.83064,26.29475 3.82772,-5.49194 4.82626,4.82625 -1e-5,-27.45971 5.49194,17.97363"
+         id="path56"
+         sodipodi:nodetypes="ccccccc" />
+    </g>
+  </g>
+</svg>

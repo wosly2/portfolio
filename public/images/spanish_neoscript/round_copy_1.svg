@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="28.975956mm"
+   height="15.253187mm"
+   viewBox="0 0 28.975956 15.253187"
+   version="1.1"
+   id="svg1"
+   inkscape:export-batch-name=""
+   inkscape:export-batch-path="/Users/sawyerjackson/Projects/portfolio/public/images/spanish_neoscript"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#111111"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm">
+    <inkscape:page
+       x="0"
+       y="0"
+       width="28.975956"
+       height="15.253187"
+       id="page1"
+       margin="0"
+       bleed="0" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1">
+    <linearGradient
+       id="swatch69"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#639bff;stop-opacity:1;"
+         offset="0"
+         id="stop69" />
+    </linearGradient>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-33.422187,-132.31444)">
+    <path
+       style="fill:none;fill-opacity:1;stroke:#d95763;stroke-width:1.44;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:3.3;stroke-dasharray:none;stroke-opacity:1"
+       d="m 34.025721,144.64963 c 0,0 7.725015,-11.87504 13.707043,-11.61068 6.645233,0.29367 14.029563,14.19083 14.029563,14.19083"
+       id="path69"
+       sodipodi:nodetypes="cac"
+       inkscape:label="round" />
+  </g>
+</svg>

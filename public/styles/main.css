@@ -125,6 +125,28 @@ hr {
     margin: 0px auto;
 }*/
 
+table,
+th,
+td {
+    border: 3px solid;
+    border-color: var(--idx1);
+    /* wobbly! */
+    border-radius: 255px 15px 225px 15px / 15px 225px 15px 255px;
+    border-collapse: separate;
+    padding: 10px;
+    margin: auto;
+}
+
+/* wobble variation! */
+
+td:nth-child(2n) {
+    border-radius: 15px 225px 15px 255px / 225px 15px 255px 15px;
+}
+
+td:nth-child(3n) {
+    border-radius: 200px 20px 240px 25px / 20px 240px 25px 200px;
+}
+
 .container {
     display: flex;
     flex-direction: row;
@@ -134,4 +156,22 @@ hr {
 .column {
     flex: 50%;
     height: 500px;
+}
+
+.bigTableSymbol {
+    height: 30px;
+    width: 30px;
+}
+
+.tableSymbol {
+    height: 30px;
+    width: 30px;
+}
+
+.inlineSymbol {
+    height: 15px;
+}
+
+.noBord {
+    border-color: rgba(0, 0, 0, 0);
 }

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="24.68417mm"
+   height="14.420648mm"
+   viewBox="0 0 24.68417 14.420648"
+   version="1.1"
+   id="svg1"
+   inkscape:export-batch-name=""
+   inkscape:export-batch-path="/Users/sawyerjackson/Projects/portfolio/public/images/spanish_neoscript"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#111111"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm">
+    <inkscape:page
+       x="0"
+       y="0"
+       width="24.68417"
+       height="14.420648"
+       id="page1"
+       margin="0"
+       bleed="0" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1">
+    <linearGradient
+       id="swatch69"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#639bff;stop-opacity:1;"
+         offset="0"
+         id="stop69" />
+    </linearGradient>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-143.02581,-98.954575)">
+    <g
+       id="g66-2"
+       transform="matrix(0.7510195,0,0,0.75098979,34.652344,-13.238034)"
+       inkscape:label="point_wrap_n7"
+       style="stroke-width:2.6631;stroke-linejoin:bevel;stroke-dasharray:none">
+      <path
+         style="fill:none;fill-opacity:1;stroke:#222034;stroke-width:2.6631;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:3;stroke-dasharray:none;stroke-opacity:1"
+         d="m 144.34155,167.26422 32.78804,-0.97933"
+         id="path57-6"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:none;fill-opacity:1;stroke:#5b6ee1;stroke-width:2.6631;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:3;stroke-dasharray:none;stroke-opacity:1"
+         d="m 150.44594,166.92177 1.22493,-16.07808 8.09554,5.71598 6.71823,3.58669 -3.61327,3.28721 -2.97133,-5.78827 -2.37053,6.38385 -3.63208,-3.56981 5.94839,-3.8346 7.2107,-6.22375 4.3919,15.81847"
+         id="path58-2"
+         sodipodi:nodetypes="ccccccccccc" />
+    </g>
+  </g>
+</svg>

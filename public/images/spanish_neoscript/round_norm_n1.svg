@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="22.315832mm"
+   height="22.459396mm"
+   viewBox="0 0 22.315832 22.459396"
+   version="1.1"
+   id="svg1"
+   inkscape:export-batch-name=""
+   inkscape:export-batch-path="/Users/sawyerjackson/Projects/portfolio/public/images/spanish_neoscript"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#111111"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm">
+    <inkscape:page
+       x="0"
+       y="0"
+       width="22.315832"
+       height="22.459394"
+       id="page1"
+       margin="0"
+       bleed="0" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1">
+    <linearGradient
+       id="swatch69"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#639bff;stop-opacity:1;"
+         offset="0"
+         id="stop69" />
+    </linearGradient>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-74.759886,-127.28213)">
+    <g
+       id="g78"
+       inkscape:label="round_norm_n1">
+      <path
+         style="fill:none;fill-opacity:1;stroke:#d95763;stroke-width:2;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:3;stroke-dasharray:none;stroke-opacity:1"
+         d="m 79.710063,139.3143 c -2.499371,-5.04538 1.628308,-11.73365 7.20696,-10.97115 5.789523,0.79132 7.708393,8.92902 3.570783,13.05515 -2.590983,2.5838 -9.153468,1.19486 -10.777743,-2.084 z"
+         id="path46-4"
+         inkscape:label="round_norm_n1"
+         sodipodi:nodetypes="ssss" />
+      <path
+         style="fill:none;fill-opacity:1;stroke:#222034;stroke-width:2;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:3.3;stroke-dasharray:none;stroke-opacity:1"
+         d="m 74.835712,147.05892 22.16418,1.68548"
+         id="path76" />
+    </g>
+  </g>
+</svg>
