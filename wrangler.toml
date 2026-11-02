@@ -1,10 +1,10 @@
 name = "portfolio"
 compatibility_date = "2026-11-01"
 
-[assets]
-directory = "./public"
-
 routes = [
   { pattern = "wosly2.org", custom_domain = true },
   { pattern = "www.wosly2.org", custom_domain = true }
 ]
+
+[assets]
+directory = "./public"
