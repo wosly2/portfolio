@@ -38,40 +38,54 @@
 
 @font-face {
     font-family: Epilog;
-    src: url(fonts/tom7/epilog.ttf);
+    src: url("../fonts/tom7/epilog.ttf");
 }
 
 @font-face {
     font-family: Pinball;
-    src: url(fonts/tom7/pinball.ttf);
+    src: url("../fonts/tom7/pinball.ttf");
 }
 
 @font-face {
     font-family: Tombats;
-    src: url(fonts/tom7/tsmiles.ttf);
+    src: url("../fonts/tom7/tsmiles.ttf");
 }
 
 @font-face {
     font-family: Bokonon;
-    src: url(fonts/Bokonon.ttf);
+    src: url("../fonts/Bokonon.ttf");
 }
 
 html {
     background-color: var(--idx11);
-    background-image: url(images/backdrop1transparent.png);
+    background-image: url("../images/backdrop1transparent.png");
     /*opacity: 0.5;*/
 }
 
 body {
     font-family: Bokonon;
-    font-size: 115%;
+    font-size: 120%;
     color: var(--idx1);
 }
 
-h1,
-h2,
-h3 {
+p {
+    text-align: justify;
+    text-indent: 20px;
+    line-height: 150%;
+    max-width: 550px;
+    text-justify: inter-word;
+}
+
+h1 {
     font-family: Epilog;
+    font-size: 50px;
+}
+
+h2 {
+    font-family: Epilog;
+    font-size: 40px;
+    text-align: right;
+    margin-right: 20px;
 }
 
 a {
@@ -90,7 +104,7 @@ hr {
 
     height: 20px;
     scale: 3;
-    background: url(images/hr.png) no-repeat scroll center;
+    background: url("../images/hr.png") no-repeat scroll center;
     border: none;
     image-rendering: pixelated;
 }
@@ -105,20 +119,19 @@ hr {
     outline: 3px solid var(--idx1);
 }
 
-ul {
+/*ul {
     list-style-position: inside;
     text-align: left;
+    margin: 0px auto;
+}*/
+
+.container {
+    display: flex;
+    flex-direction: row;
+    /*padding: auto;*/
 }
 
-p {
-    text-align: left;
-}
-
-.little {
-    text-align: right;
-    margin-right: 20px;
-}
-
-.big {
-    font-size: 50px;
+.column {
+    flex: 50%;
+    height: 500px;
 }

@@ -13,8 +13,8 @@ hi :3
 
 <html>
     <head>
-        <link rel="stylesheet" href="style.css" />
-        <link rel="shortcut icon" href="images/strawberry.ico" />
+        <link rel="stylesheet" href="styles/main.css" />
+        <link rel="icon" href="images/strawberry.ico" />
 
         <meta name="viewport" content="width=device-width, initial-scale=1" />
 
@@ -22,55 +22,65 @@ hi :3
     </head>
 
     <body>
-        <script src=randomhr.js></script>
+        <script src="scripts/RandomHR.js" defer></script>
 
         <div class="centerDiv">
 
             <header>
-                <h1 class="big">sawyer / soy / wosly2</h1>
+                <h1>sawyer / soy / wosly2</h1>
             </header>
 
-            <random-hr></random-hr>
+            <random-hr root="."></random-hr>
+            <noscript><hr /></noscript>
 
-            <img
-                src="images/rocket.png"
-                align="left"
-                alt="This person is on a rocket."
-                style="image-rendering: pixelated;"
-            />
+            <div class="container" style="padding-bottom: 80px;">
+                <div class="column">
+                    <img
+                        src="images/rocket.png"
+                        alt="This person is on a rocket."
+                        style="image-rendering: pixelated;"
+                    />
+                </div>
+                <div class="column">
+                    <h2>hihi</h2>
 
-            <div style="text-indent: 15px">
-                <h1 class="little">hihi</h1>
+                    <p>
+                        hello, im sawyer. i am a student and i like to code in my free
+                        time.
+                    </p>
 
-                <p>
-                    hello, im sawyer. i am a student and i like to code in my free
-                    time.
-                </p>
+                    <h2>my stuff?</h2>
 
-                <h1 class="little">my stuff?</h1>
+                    <p>
+                        i make <a href="pages/conlang.html">conlangs and neoscripts</a>, check them out!
+                        currently, i dont have many finished tech projects to demo. maybe check
+                        sometime soon!
+                    </p>
 
-                <p>
-                    i dont have any finished projects to demo yet. maybe check
-                    sometime soon!
-                </p>
+                    <h2>oh, ok...</h1>
 
-                <h1 class="little">oh, ok...</h1>
-
-                <p>
-                    yeah, this portfolio is pretty bare right now. but the html was
-                    fun to write :)
-                </p>
+                    <p>
+                        yeah, this portfolio is pretty bare. but the html was
+                        fun to write :)
+                    </p>
+                </div>
             </div>
 
-            <p style="clear: left"></p>
+            <!--<p style="clear: left"></p>-->
 
-            <random-hr></random-hr>
+            <!--<div class="row">
+                <div class="column" style="background-color: red">COLUMN 1</div>
+                <div class="column" style="background-color: green">COLUMN 2</div>
+            </div>-->
+
+            <random-hr root="."></random-hr>
+            <noscript><hr /></noscript>
 
             <footer>
                 sawyer jackson
                 | <a href="https://github.com/wosly2">git me</a>
                 | <a href="mailto:sawyergjackson@gmail.com">mail me</a>
-                | <a href="credits.html">credits</a>
+                | <a href="pages/credits.html">credits</a>
                 | 2026
             </footer>
         </div>
